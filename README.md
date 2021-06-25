@@ -1,7 +1,7 @@
-# vue-carrito-de-compras
+# CARDS-VUE
 
-### Un carrito de compras responsive, usando Bootstrap y Vue.js. Además de usar una API para obtener fotos de tamaños especificos.
-### Échale un vistazo en: https://practical-hopper-80e342.netlify.app
+### Simple random cards exercise made with Vuejs and SASS.
+### Take a look: https://cranky-bhabha-9b5534.netlify.app/
 
 ## Project setup
 ```
